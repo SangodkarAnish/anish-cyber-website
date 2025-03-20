@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anish's Cyber Services</title>
+    <style>
+        body { font-family: 'Poppins', sans-serif; margin: 0; padding: 0; background: #f0f0f0; color: #222; }
+        header { background: linear-gradient(90deg, #ff6600, #ff3366); color: white; padding: 20px; text-align: center; font-size: 30px; font-weight: bold; text-transform: uppercase; letter-spacing: 1.5px; }
+        .container { padding: 40px 10%; }
+        .section { background: white; margin: 20px 0; padding: 30px; border-radius: 12px; box-shadow: 0 5px 15px rgba(0,0,0,0.15); transition: all 0.3s ease-in-out; }
+        .section:hover { transform: scale(1.03); box-shadow: 0 8px 20px rgba(0,0,0,0.2); }
+        h2 { color: #ff3366; text-transform: uppercase; }
+        ul { list-style: none; padding: 0; }
+        ul li { padding: 12px; font-size: 18px; font-weight: 500; border-left: 4px solid #ff6600; margin-bottom: 8px; background: #f9f9f9; padding-left: 15px; border-radius: 5px; }
+        .btn { background: #ff3366; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; display: inline-block; font-size: 18px; font-weight: bold; transition: all 0.3s; box-shadow: 0 4px 10px rgba(255, 51, 102, 0.3); }
+        .btn:hover { background: #ff6600; box-shadow: 0 5px 15px rgba(255, 102, 0, 0.4); }
+        .contact { text-align: center; margin-top: 30px; }
+        .contact p { font-size: 18px; }
+        footer { background: #222; color: white; text-align: center; padding: 15px; margin-top: 40px; font-size: 16px; text-transform: uppercase; letter-spacing: 1px; }
+    </style>
+</head>
+<body>
+    <header>🚀 Anish's Cyber Services 🚀</header>
+    <div class="container">
+        <div class="section">
+            <h2>Welcome to Anish's Cyber Services</h2>
+            <p>We provide professional cyber services, including online form filling, application processing, and more. Get fast, reliable, and secure services at *affordable prices*!</p>
+        </div>
+        <div class="section">
+            <h2>🌟 Our Services 🌟</h2>
+            <ul>
+                <li>✅ Online Form Filling & Submission</li>
+                <li>✅ Government & Private Job Applications</li>
+                <li>✅ Resume & Document Printing</li>
+                <li>✅ PAN Card, Aadhaar Updates & Utility Bill Payments</li>
+                <li>✅ Travel & Exam Registrations</li>
+                <li>✅ GST Filing & Business Registrations</li>
+                <li>✅ Railway, Flight, and Bus Ticket Bookings</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>💰 Pricing 💰</h2>
+            <p>Our services start from just *₹50 per form*. Special discounts available for bulk applications!</p>
+            <ul>
+                <li>📌 *Basic Form Filling* – ₹50 per form</li>
+                <li>📌 *Job Application Processing* – ₹100 per application</li>
+                <li>📌 *PAN/Aadhaar Updates* – ₹150 per request</li>
+                <li>📌 *Business GST Filing* – ₹500 per filing</li>
+            </ul>
+        </div>
+        <div class="section contact">
+            <h2>📞 Contact Us 📞</h2>
+            <p>📱 Call/WhatsApp: <b>9833259508</b></p>
+            <p>📷 Instagram: <a href="https://instagram.com/anish.sangodkar" target="_blank">@anish.sangodkar</a></p>
+            <a class="btn" href="mailto:contact@anishcyber.com">📩 Email Us</a>
+        </div>
+    </div>
+    <footer>&copy; 2025 Anish's Cyber Services | Fast & Reliable Digital Solutions</footer>
+</body>
+</html>
